@@ -41,10 +41,23 @@ This is not a tweak. It’s a full rethinking of the internet stack—from TCP a
 If you want to build the pipes of the AGI era, and you thrive in deep, technical challenges at the edge of what’s possible, let’s talk.
 
 ---
+## 📬 Interested? Reach out to the Cosmic Labs team
 
-**##📬 Interested? Reach out to the Cosmic Labs team. Email the following: **
-- In email body: Your name, why you're interested in the role, preferred start/end dates, and a few lines on your eligibility
-- In the attachments: Your CV (pdf)
-- Email: [team@cosmiclabs.io](mailto:team@cosmiclabs.io)
-- Application window closes EOD June 15, 2025
-- Candidates will be reviewed as soon as they submit
+**Email the following:**
+
+**In Subject header:**
+- Founding Engineer / [YOUR NAME]
+
+**In the email body:**
+- Your name  
+- Why you're interested in the role  
+- Preferred start/end dates  
+- Current education level  
+- A few lines on your eligibility  
+
+**In the attachments:**
+- Your CV (PDF)  
+
+📩 Email: [team@cosmiclabs.io](mailto:team@cosmiclabs.io)  
+⏳ Application window closes **EOD June 12, 2025**  
+✅ Candidates will be reviewed as soon as they submit  
