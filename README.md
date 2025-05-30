@@ -42,11 +42,9 @@ If you want to build the pipes of the AGI era, and you thrive in deep, technical
 
 ---
 
-📬 **Interested? Reach out to the Cosmic Labs team**  
-Cell / WhatsApp: +1 331-201-0102  
-Email: [team@cosmiclabs.io](mailto:team@cosmiclabs.io)
-
----
-
-## 📌 Tags  
-#C++ #Rust #Networking #KernelBypass #DPDK #LowLatency #AIInfra #SmartNIC #EmbeddedSystems #RealTimeAI #NetworkProtocols #AgentInfrastructure #StartupJobs #FoundingEngineer #DeepTech #FPGA #CyberSecurity #NYCStartups
+**##📬 Interested? Reach out to the Cosmic Labs team. Email the following: **
+- In email body: Your name, why you're interested in the role, preferred start/end dates, and a few lines on your eligibility
+- In the attachments: Your CV (pdf)
+- Email: [team@cosmiclabs.io](mailto:team@cosmiclabs.io)
+- Application window closes EOD June 15, 2025
+- Candidates will be reviewed as soon as they submit
