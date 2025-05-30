@@ -42,9 +42,9 @@ If you want to build the pipes of the AGI era, and you thrive in deep, technical
 
 ---
 
-📬 **Interested? Reach out to Meg**  
+📬 **Interested? Reach out to the Cosmic Labs team**  
 Cell / WhatsApp: +1 331-201-0102  
-Email: [meg@cosmiclabs.io](mailto:meg@cosmiclabs.io)
+Email: [team@cosmiclabs.io](mailto:team@cosmiclabs.io)
 
 ---
 
