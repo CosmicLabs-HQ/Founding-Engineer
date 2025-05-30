@@ -51,8 +51,8 @@ If you want to build the pipes of the AGI era, and you thrive in deep, technical
 **In the email body:**
 - Your name  
 - Why you're interested in the role  
-- Preferred start/end dates  
-- Current education level  
+- Soonest available start date  
+- Current education level and years of experience
 - A few lines on your eligibility  
 
 **In the attachments:**
