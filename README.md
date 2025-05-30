@@ -1,4 +1,4 @@
-# Founding Engineer @ Stealth Startup – Intelligent Networking + AI  
+# Founding Engineer – Intelligent Networking + AI  
 **Location:** New York / Brooklyn (Preferred) | Relocation Supported  
 **Type:** Full-time | Competitive Pay + Equity  
 **Start:** ASAP  
