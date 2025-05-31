@@ -6,8 +6,8 @@
 ---
 
 ## 🧠 What You’ll Do  
-- Build real-time, deterministic AI systems that guide how packets are processed, prioritized, and routed  
-- Engineer across OSI layers 2–4 using custom socket logic and system-level tooling  
+- Build real-time, deterministic AI systems
+- - Engineer across OSI layers 2–4
 - Optimize AI inference across diverse hardware: data centers, financial trading, embedded systems, distributed and volatile networks  
 - Design for degraded and contested environments with strict performance guarantees  
 - Collaborate directly with the founding team on zero-to-one infrastructure and product roadmap  
