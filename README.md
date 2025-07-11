@@ -1,4 +1,4 @@
-# Founding Engineer – Intelligent Networking + AI  
+# Founding Engineer – High-Performance Networking x Infra x AGI
 **Location:** New York / Brooklyn (Preferred) | Relocation Supported  
 **Type:** Full-time | Competitive Pay + Equity  
 **Start:** ASAP  
@@ -34,14 +34,13 @@
 ---
 
 ## 🚀 Why Join  
-We’re a venture-backed pre-seed startup re-architecting how data moves—across devices, agents, and entire systems. The internet was designed for dial-up. We’re building for AI.
+We’re a venture-backed pre-seed startup re-architecting how data moves—across devices, agents, and entire systems. The internet was designed for dial-up. We’re building for machines.
 
-This is not a tweak. It’s a full rethinking of the internet stack—from TCP and UDP to how switches and protocols function in mission-critical environments. We're deploying the first intelligent, ultra-low latency network stack optimized for real-time AI agents, trading systems, and contested networks.  
-
-If you want to build the pipes of the AGI era, and you thrive in deep, technical challenges at the edge of what’s possible, let’s talk.
+This is not a tweak. This is a full rethinking of the internet stack, from TCP to switches to cloud-edge orchestration. We're completely transforming networking, from the bottom up. If you want to build the pipes of the AGI era, and you thrive in deep, technical challenges at the edge of what’s possible... let’s talk.
 
 ---
 ## 📬 Interested? Reach out to the Cosmic Labs team
+- We're hiring ASAP and consider candidates on a rolling basis. 
 
 **Email the following:**
 
@@ -50,7 +49,8 @@ If you want to build the pipes of the AGI era, and you thrive in deep, technical
 
 **In the email body:**
 - Your name  
-- Why you're interested in the role  
+- Why you're interested in the role
+- What you, personally, bring to Cosmic Labs
 - Soonest available start date  
 - Current education level and years of experience
 - A few lines on your eligibility  
