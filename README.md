@@ -1,5 +1,5 @@
 # Founding Engineer – High-Performance Networking x Infra x AGI
-**Location:** New York / Brooklyn | San Francisco | Relocation Supported  
+**Location:** Brooklyn | San Francisco | Relocation Supported  
 **Type:** Full-time | Competitive Pay + Equity  
 **Start:** ASAP  
 
